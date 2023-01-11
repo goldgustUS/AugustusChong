@@ -1,14 +1,14 @@
 <div>
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/112513956/211922260-e04e9628-6a1a-43dd-824f-e46f9d5c25f7.gif"/>
+  <img src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp" height="400" width="400"/>
 </p>
 
 </div>
 
 <div>
   
-  <h1 align="center">Hello! I'm Augustus 👋</h1>
+  <h1 align="center">Hello! I'm Augustus <img alt="Corgi Waving Gif" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" title="@corgiyolk" height="40" width="40" /> welcome to my profile!</h1>
 
 </div>
 
