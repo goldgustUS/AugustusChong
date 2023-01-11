@@ -5,6 +5,10 @@
 
 <h1 align="center">Hello! I'm Augustus 👋</h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/AugustusChong)  
+
 <!--
 **AugustusChong/AugustusChong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
