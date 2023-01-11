@@ -1,16 +1,28 @@
+<div>
+  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112513956/211922260-e04e9628-6a1a-43dd-824f-e46f9d5c25f7.gif"/>
 </p>
 
-<h1 align="center">Hello! I'm Augustus 👋</h1>
+</div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact" />
-  </a>
-  <br>
-  <img align="center" src="https://gpvc.arturio.dev/AugustusChong">
-</p>
+<div>
+  
+  <h1 align="center">Hello! I'm Augustus 👋</h1>
+
+</div>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+  ![Profile views](https://gpvc.arturio.dev/AugustusChong)
+
+</div>
 
 <!--
 **AugustusChong/AugustusChong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
