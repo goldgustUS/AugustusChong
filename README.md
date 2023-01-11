@@ -1,4 +1,9 @@
-### Hello! I'm Augustus 👋
+<p align="center">
+  <!--![2GU](https://user-images.githubusercontent.com/112513956/211922260-e04e9628-6a1a-43dd-824f-e46f9d5c25f7.gif)-->
+  <img src="https://user-images.githubusercontent.com/112513956/211922260-e04e9628-6a1a-43dd-824f-e46f9d5c25f7.gif"/>
+</p>
+
+<h1 align="center">Hello! I'm Augustus 👋</h1>
 
 <!--
 **AugustusChong/AugustusChong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
