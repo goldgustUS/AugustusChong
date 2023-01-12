@@ -7,6 +7,7 @@
 I am a Full-Stack Software Engineer 💻 based in Los Angeles, California 🌆. I love to learn new things and I enjoy programming as it incorporates 📖learning, 🧩problem solving, 💡creating, and 🕵️‍♂️investigating. I have served in the U.S. Army as an Infantryman <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/USA_-_Army_Infantry_Insignia.png" height="20" width="40" />
 
 ## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustuschong/)
 
 <div align="center">
 
