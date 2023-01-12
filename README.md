@@ -8,12 +8,15 @@ I am a Full-Stack Software Engineer 💻 based in Los Angeles, California 🌆. 
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustuschong/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustus.chong.dev@gmail.com)
 
 <div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=algolia">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=default">
+  </picture>
 
   ![Profile views](https://gpvc.arturio.dev/AugustusChong)
 
