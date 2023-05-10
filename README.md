@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp" height="400" width="400"/>
+  <img src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp" height="300" width="300"/>
 </p>
 
 ### <h1 align="center">Hello! I'm Augustus <img alt="Corgi Waving Gif" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" title="@corgiyolk" height="40" width="40"/> welcome to my profile!</h1>
