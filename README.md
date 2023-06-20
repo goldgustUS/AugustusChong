@@ -9,6 +9,8 @@ I am a Software Developer based in Los Angeles, California. I love learning new 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustuschong/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustus.chong.dev@gmail.com)
+[![Portfolio Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+)](https://augustuschong.com)
 
 ## Languages
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
