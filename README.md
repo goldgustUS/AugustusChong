@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/7NoNw4pMNTvgc/giphy.webp" height="300" width="300"/>
 </p>
 
-### <h1 align="center">Hello! I'm Augustus <img alt="Corgi Waving Gif" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" title="@corgiyolk" height="40" width="40"/> welcome to my profile!</h1>
+### <h1 align="center">Hello! I'm Augustus <img alt="Waving Gif" src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" title="Tenor-Cyklon_3000" height="40" width="40"/> welcome to my profile!</h1>
 
 I am a Software Developer based in Los Angeles, California. I love learning new things and I really enjoy programming. I have served in the U.S. Army as an Infantryman <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/USA_-_Army_Infantry_Insignia.png" title="Infantry Crossed Rifles" height="20" width="40"/>
 
