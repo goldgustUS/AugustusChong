@@ -37,6 +37,8 @@ I am a Software Developer based in Los Angeles, California. I love learning new 
 )](https://tailwindcss.com/)
 [![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white
 )](https://threejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
+)](https://vitejs.dev/)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
 ## IDE
