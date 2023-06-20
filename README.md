@@ -61,7 +61,7 @@ I am a Software Developer based in Los Angeles, California. I love learning new 
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=default">
   </picture>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=AugustusChong&color=blue)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AugustusChong&style=plastic&color=blue)
 
 </div>
 
