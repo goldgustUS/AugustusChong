@@ -4,7 +4,7 @@
 
 ### <h1 align="center">Hello! I'm Augustus <img alt="Waving Gif" src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" title="Tenor-Cyklon_3000" height="40" width="40"/> welcome to my profile!</h1>
 
-I am a Software Developer based in Los Angeles, California. I love learning new things and I really enjoy programming. I have served in the U.S. Army as an Infantryman <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/USA_-_Army_Infantry_Insignia.png" title="Infantry Crossed Rifles" height="20" width="40"/>
+I am a Software Developer based in Los Angeles, California. I love learning new things and I really enjoy programming. I have served in the U.S. Army.
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustuschong/)
