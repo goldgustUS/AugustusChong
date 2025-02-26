@@ -57,9 +57,9 @@ I am a Software Developer based in Los Angeles, California. I love learning new 
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=algolia">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustusChong&layout=compact&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=goldgustUS&layout=compact&theme=algolia">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=goldgustUS&layout=compact&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldgustUS&layout=compact&theme=default">
   </picture>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=goldgustUS&style=plastic&color=blue&label=Profile+Views)
